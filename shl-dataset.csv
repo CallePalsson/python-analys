@@ -1,0 +1,15 @@
+Rank,Team,SeasonPoints,PointsPerGame,GoalsFor,GoalsAgainst,EstimatedPlayerBudgetMSEK
+1,Skellefteå AIK,108,2.08,182,121,50.6
+2,Frölunda HC,101,1.94,161,106,59
+3,Växjö Lakers,94,1.81,150,136,55
+4,Rögle BK,93,1.79,155,123,65
+5,Färjestad BK,80,1.54,145,131,61.1
+6,Brynäs IF,78,1.50,154,143,54.9
+7,Malmö Redhawks,77,1.48,143,154,48
+8,Luleå Hockey,77,1.48,139,134,56.5
+9,Djurgårdens IF,73,1.40,136,164,54.5
+10,Örebro Hockey,66,1.27,139,158,54.9
+11,Linköping HC,64,1.23,119,148,59.8
+12,Timrå IK,63,1.21,127,148,54
+13,HV71,59,1.13,136,172,70
+14,Leksands IF,59,1.13,112,160,59.6
