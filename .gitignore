@@ -38,6 +38,7 @@ htmlcov/
 
 # Ruff
 .ruff_cache/
+slask.ipynb
 
 # Notebook outputs (optional)
 # Om notebooks innehåller tunga outputs:
